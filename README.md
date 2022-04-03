@@ -15,15 +15,17 @@
   <img src="https://img.shields.io/badge/-CSS3-139DCE?logo=css3&logoColor=white&style=flat">
 </p>
 
-> HTML sementic elements with grid-style
+> HTML sementic elements with grid-style <br />
+The screen appears below.
+> ![all-devices-black](https://user-images.githubusercontent.com/102871888/161428365-506bd803-7b78-4086-bef0-07e9d2c40048.png)
 
-### 🏠 [Homepage](https://github.com/task-er/Responsive-grid-layout)
+### 🏠 [Homepage](https://common-dev.tistory.com/entry/%EC%9B%B9-%EB%B0%98%EC%9D%91%ED%98%95-%EA%B7%B8%EB%A6%AC%EB%93%9C)
 
 ## Author
 
 👤 **Myeongsoo, Son**
 
-* Website: https://common-dev.tistory.com/entry/%EC%9B%B9-%EB%B0%98%EC%9D%91%ED%98%95-%EA%B7%B8%EB%A6%AC%EB%93%9C
+* Website: [티스토리 블로그](https://common-dev.tistory.com/entry/%EC%9B%B9-%EB%B0%98%EC%9D%91%ED%98%95-%EA%B7%B8%EB%A6%AC%EB%93%9C)
 * GitHub: [@task-er](https://github.com/task-er)
 
 ## Show your support
