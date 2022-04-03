@@ -1,0 +1,42 @@
+.container{
+  margin: 0 auto;
+  max-width: 1200px;
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  grid-auto-rows: minmax(80px, auto);
+  gap: .5em;
+}
+
+header{
+  grid-column: 1 / 3;
+  background-color: lightblue;
+}
+
+nav {
+  grid-column: 1 / 3;
+  background-color: lightcoral;
+}
+
+section {
+  background-color: lightsalmon;
+}
+
+aside {
+  background-color: lightgoldenrodyellow;
+}
+
+footer{
+  grid-column: 1 / 3;
+  background-color: lightgreen;
+}
+
+@media(max-width: 768px){
+  aside{
+      grid-row: 4 / 5;
+      grid-column: 1 / 3;
+  }
+
+  section{
+      grid-column: 1 / 3;
+  }
+}
